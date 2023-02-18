@@ -1,0 +1,14 @@
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.Business.dll
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.Business.pdb
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.DataAccess.dll
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.Entities.dll
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\EntityFramework.dll
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.DataAccess.pdb
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.DataAccess.dll.config
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\Nortwind.Entities.pdb
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\bin\Debug\EntityFramework.xml
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\obj\Debug\Nortwind.Business.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\obj\Debug\Nortwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\obj\Debug\Nortwind.Business.csproj.CopyComplete
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\obj\Debug\Nortwind.Business.dll
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.Business\obj\Debug\Nortwind.Business.pdb
