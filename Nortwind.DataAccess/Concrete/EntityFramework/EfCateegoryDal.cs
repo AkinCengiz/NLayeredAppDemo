@@ -9,8 +9,8 @@ using Nortwind.Entities.Concrete;
 
 namespace Nortwind.DataAccess.Concrete.EntityFramework
 {
-    public class EfProductDal : EfEntityRepositoryBase<Product,NortwindContext>, IProductDal
+    public class EfCateegoryDal : EfEntityRepositoryBase<Category,NortwindContext>,ICategoryDal
     {
-        
+       
     }
 }
