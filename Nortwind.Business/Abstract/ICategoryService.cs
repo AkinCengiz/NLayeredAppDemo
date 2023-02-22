@@ -10,5 +10,8 @@ namespace Nortwind.Business.Abstract
     public interface ICategoryService
     {
         List<Category> GetAll();
+        void Add(Category category);
+        void Update(Category category);
+        void Delete(Category category);
     }
 }

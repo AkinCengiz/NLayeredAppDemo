@@ -33,5 +33,20 @@ namespace Nortwind.Business.Concrete
         {
             return _productDal.GetAll(p => p.ProductName.ToLower().Contains(productName.ToLower()));
         }
+
+        public void Add(Product product)
+        {
+            _productDal.Add(product);
+        }
+
+        public void Delete(Product product)
+        {
+            _productDal.Delete(product);
+        }
+
+        public void Update(Product product)
+        {
+            _productDal.Update(product);
+        }
     }
 }

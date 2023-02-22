@@ -21,3 +21,4 @@ C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.WebFormsUI\obj\Debug\Nortwi
 C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.WebFormsUI\obj\Debug\Nortwind.WebFormsUI.csproj.CopyComplete
 C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.WebFormsUI\obj\Debug\Nortwind.WebFormsUI.exe
 C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.WebFormsUI\obj\Debug\Nortwind.WebFormsUI.pdb
+C:\Users\akinc\source\repos\NLayeredAppDemo\Nortwind.WebFormsUI\obj\Debug\Nortwind.WebFormsUI.FrmCategory.resources
